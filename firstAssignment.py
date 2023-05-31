@@ -1,0 +1,1 @@
+print("This is my message for the first assignment")
