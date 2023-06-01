@@ -34,3 +34,7 @@ print(len(list1)) #prints 5 porque se elimino el elemento 0
 #List can be sliced using
 t = [9,41,12,3,74,15]
 print(t[1:3]) #prints [41,12]
+
+#Sorting lists
+t.sort()
+print(t) #prints [3,9,12,15,41,74]
