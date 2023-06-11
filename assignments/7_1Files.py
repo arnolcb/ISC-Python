@@ -1,4 +1,4 @@
-text = open('files/7_1TXT.txt')
+text = open('docs/7_1TXT.txt')
 
 #Imprimir linea 5
 print(text.readlines()[4])
